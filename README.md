@@ -13,7 +13,7 @@
 ### As an extension
 
 1. Clone this repository
-   - `git clone https://github.com/yrwq/termstart`
+   - `git clone https://github.com/csokolove/termstart`
 
 #### Firefox
 
@@ -28,10 +28,6 @@
 2. Enable `Developer Mode` in the top-right corner of the page.
 3. In the top-left corner of the page, click `Load Unpacked`.
 4. Select the cloned folder.
-
-### As a startpage
-
-If you use a browser which doesn't support adding 3rd party extensions, you can simply add `https://yrwq.github.io/termstart` as your startpage.
 
 ## Usage
 
