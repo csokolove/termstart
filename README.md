@@ -50,6 +50,7 @@ If you use a browser which doesn't support adding 3rd party extensions, you can 
 | `themes`      | list all themes                 |                           |
 | `engine`      | change search engine            | `engine google`           |
 | `engines`     | list all search engines         |                           |
+| `exit`        | exit browser tab                |                           |
 
 ## Themes
 
