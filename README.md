@@ -2,8 +2,6 @@
 
 <p align="center">The idea is to have a minimal but functional home page for your browser.</p>
 
-<p align="center"> <a href="https://yrwq.github.io/termstart" target="_blank"><img src="https://forthebadge.com/images/badges/check-it-out.svg"/></a></p>
-
 ---
 
 <p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg"/> <img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg"/> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/> </p>
