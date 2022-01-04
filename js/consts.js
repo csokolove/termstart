@@ -121,7 +121,14 @@ const COMM_help = {
   longdesc: 'To get a list of all available<br> commands, type: "commands"'
 }
 
-const COMM_commands = [ "help", "clear", "add", "del", "ls", "open", "search", "engine", "engines", "theme", "themes"]
+const COMM_exit = {
+  name: 'exit',
+  description: 'Close the current tab',
+  usage: 'exit',
+  longdesc: 'Closes the focused browser tab'
+}
+
+const COMM_commands = [ "help", "clear", "add", "del", "ls", "open", "search", "engine", "engines", "theme", "themes", "exit"]
 
 const COMM = {
   ls: COMM_ls,
@@ -136,5 +143,6 @@ const COMM = {
   clear: COMM_clear,
   help: COMM_help,
   commands: COMM_commands,
+  exit: COMM_exit,
 }
 

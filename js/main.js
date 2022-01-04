@@ -54,6 +54,9 @@ const COMMANDS = {
   commands: {
     func: join_writer(commands, command_writer),
   },
+  exit: {
+    func: join_writer(exit, writer),
+  },
 };
 
 let search_url = ENGINES.ddg; // default search engine

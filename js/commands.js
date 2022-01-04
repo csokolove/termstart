@@ -209,3 +209,11 @@ function theme(input) {
     write_theme(input[0]);
   }
 }
+
+/*
+ * Closes the tab
+*/
+
+function exit(input) {
+  window.close();
+}
